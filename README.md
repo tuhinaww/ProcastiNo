@@ -1,5 +1,5 @@
 ## Welcome! This is ProcastiNO ❌
-<img src="https://ibb.co/0Fkmt0R">
+<img src="https://i.ibb.co/BrmcNh5/procastino.png" alt="procastino" border="0">
   <h3 align="center">ProcastiNO</h3>
 </p>
 
