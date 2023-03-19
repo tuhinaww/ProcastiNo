@@ -12,4 +12,4 @@ The web app is built using the latest web development technologies such as Tailw
 When you first visit ProcastiNO, you'll be greeted with a clean and minimalist user interface. The app is designed to be intuitive and easy to use, with all the features you need to manage your to-do list at your fingertips.</h3>
 </p>
 
-## Link: 
+## Link: https://procastino.netlify.app/ 
