@@ -1,2 +1,10 @@
-# ProcastiNo
-Procastino is the ultimate to-do list creator and destroyer. It's the perfect app for someone like me who can't seem to get anything done on time. With Procastino, I can make a list of all the things I need to do... and then promptly ignore it.
+<p align="center">
+  <a href="https://ibb.co/w7Wn89D"><img src="https://i.ibb.co/w7Wn89D/procastino.png" alt="procastino" border="0"></a>
+  <h3 align="center">ProcastiNO</h3>
+</p>
+
+<p align="center">
+ 
+  <br/>
+ 
+</p>
