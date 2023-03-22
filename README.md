@@ -13,3 +13,7 @@ When you first visit ProcastiNO, you'll be greeted with a clean and minimalist u
 </p>
 
 ## Link: https://procastino.netlify.app/ 
+
+<p align="center">
+<img src="https://i.ibb.co/gFDGvyt/GDSC-APPLY.png" alt="GDSC-APPLY" border="0">
+</p>
